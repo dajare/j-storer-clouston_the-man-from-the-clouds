@@ -21,7 +21,7 @@ p[epub|type~="z3998:salutation"]{
 /* end letters */
 
 /* Begin bespoke */
-#chapter-2-16 blockquote p{
+#chapter-2-16 blockquote:last-of-type p{
 	text-transform: uppercase;
 }
 /* end bespoke */
