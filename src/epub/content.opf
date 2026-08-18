@@ -34,12 +34,12 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113819</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">During the First World War, a naval officer stranded on a Scottish island suspects it harbors enemy spies.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<meta property="schema:abstract">During the First World War, a naval officer stranded on a Scottish island suspects it harbors enemy spies.</meta>
+		<dc:description>
 			&lt;p&gt;Roger Merton, a young naval lieutenant from the volunteer reserves, is on a balloon reconnaissance mission with one of the regular officers when their balloon loses its moorings and drifts into the fog. Blown to they know not where, Merton’s colleague bails, while Merton waits until he is more certain of being over land.&lt;/p&gt;
 			&lt;p&gt;When he does parachute to safety, Merton finds he is not in enemy territory, but in one of the islands in the North Sea off the Scottish coast. Still uncertain of the inhabitants, he begins to suspect there may be treachery afoot. But where could German spies be hiding on such a barren island?&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Man from the Clouds&lt;/i&gt; is another early spy thriller, like &lt;a href="https://standardebooks.org/ebooks/j-storer-clouston"&gt;J. Storer Clouston’s&lt;/a&gt; better known &lt;a href="https://standardebooks.org/ebooks/j-storer-clouston/the-spy-in-black"&gt;&lt;i&gt;The Spy in Black&lt;/i&gt;&lt;/a&gt; published the previous year, both during World War I.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9852</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008664447</dc:source>
