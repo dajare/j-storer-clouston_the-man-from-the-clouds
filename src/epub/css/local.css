@@ -94,4 +94,15 @@ p[epub|type~="z3998:salutation"]{
 #chapter-2-16 blockquote:last-of-type p{
 	text-transform: uppercase;
 }
+
+/* chapter-2-14 */
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul ul{
+	margin-left: 1em;
+}
 /* end bespoke */
